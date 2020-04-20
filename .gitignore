@@ -1,0 +1,7 @@
+MNIST_*
+gif_*
+*.npy
+*.swp
+.png
+checkpoint
+path.txt
